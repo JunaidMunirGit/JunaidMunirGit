@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/JunaidMunirGit/JunaidMunirGit/blob/main/headshot.png" width="120" style="border-radius:50%;" />
-
 <h2>Junaid Munir</h2>
 
 **Senior .NET Engineer · Azure & Cloud · AI-Powered Systems · 🏆 Recognition Commitment Champion**
