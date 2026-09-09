@@ -167,12 +167,13 @@ var junaid = new Developer {
 
 ---
 
-## 📫 Get In Touch
+## 🔗 Connect
 
 <div align="center">
 
-📧 linked.junaid@gmail.com &nbsp;|&nbsp; 📞 +92 348 55 16 669 &nbsp;|&nbsp; 🌐 [junaidmunir.vercel.app](https://junaidmunir.vercel.app)
-
-*"Building scalable, high-performance systems — from AI platforms to defense-grade logistics."*
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:linked.junaid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F97316)](https://linkedin.com/in/junaid-munir)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=F97316)](https://junaidmunir.vercel.app)
+[![Upwork](https://img.shields.io/badge/UPWORK-000000?style=for-the-badge&logo=upwork&logoColor=F97316)](https://www.upwork.com/freelancers/~01fbbeb8e989f847d5)
 
 </div>
