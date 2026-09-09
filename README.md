@@ -43,41 +43,53 @@ var junaid = new Developer {
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=F97316)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=F97316)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=F97316)
+![SignalR](https://img.shields.io/badge/SignalR-000000?style=for-the-badge&logo=dotnet&logoColor=F97316)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=F97316)
+![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=nuget&logoColor=F97316)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=F97316)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=F97316)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F97316)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=F97316)
+![RxJS](https://img.shields.io/badge/RxJS-000000?style=for-the-badge&logo=reactivex&logoColor=F97316)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=F97316)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=F97316)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=F97316)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=F97316)
+![Azure Table Storage](https://img.shields.io/badge/Azure_Table_Storage-000000?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
 
 **Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**Architecture & Patterns**
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00897B?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-7B1FA2?style=flat-square)
-![DDD](https://img.shields.io/badge/DDD-1565C0?style=flat-square)
-![Microservices](https://img.shields.io/badge/Microservices-FF8F00?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-000000?style=for-the-badge&logo=azurefunctions&logoColor=F97316)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=F97316)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=F97316)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=F97316)
+![Azure CI/CD](https://img.shields.io/badge/Azure_CI%2FCD-000000?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
 
 **AI & Productivity**
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=F97316)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=F97316)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=F97316)
+![Azure AI](https://img.shields.io/badge/Azure_AI-000000?style=for-the-badge&logo=microsoftazure&logoColor=F97316)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=F97316)
+![JIRA](https://img.shields.io/badge/JIRA-000000?style=for-the-badge&logo=jira&logoColor=F97316)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=F97316)
+![IIS](https://img.shields.io/badge/IIS-000000?style=for-the-badge&logo=microsoft&logoColor=F97316)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=F97316)
 
 ---
 
