@@ -95,13 +95,38 @@ var junaid = new Developer {
 
 ## 💼 Experience
 
-```
-🏢 Epazz Tech          Senior Software Engineer     Jan 2025 – Present
-🏢 DPL                 Software Engineer            Apr 2024 – Dec 2024
-🏢 NKU Technologies    .NET Dev – Full Stack        Sep 2020 – Feb 2024
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        ◆ <strong>Senior Software Engineer @ Epazz Tech</strong> <em>Jan 2025 – Present</em><br/>
+        Building AI-powered enterprise platforms including SaaS ERP and strategy execution tools. Architecting scalable .NET systems with Clean Architecture, CQRS, and Azure integration.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        ◆ <strong>Software Engineer @ DPL</strong> <em>Apr 2024 – Dec 2024</em><br/>
+        Delivered mission-critical logistics modules for defense-grade systems. Led end-to-end owning of requirements, feedback loops, and release milestones. 🏆 <em>Recognition Commitment Champion Award</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        ◆ <strong>.NET Developer – Full Stack @ NKU Technologies</strong> <em>Sep 2020 – Feb 2024</em><br/>
+        Built full-stack enterprise applications using .NET, Angular, and SQL Server. Worked on ERP, finance management, and client-facing web solutions across multiple domains.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        ◆ <strong>Web Developer @ Sundas Foundation</strong> <em>(Contract)</em><br/>
+        Worked onsite to redesign UI aligning with foundation's branding. Built secure APIs and developed reports with DevExpress. Improved usability and client satisfaction through faster delivery cycles.
+      </p>
+    </td>
+  </tr>
+</table>
 
-🏆 **Recognition Commitment Champion Award** — DPL
+📌 **Open for remote & freelance opportunities** — [Get in touch →](mailto:linked.junaid@gmail.com)
 
 ---
 
