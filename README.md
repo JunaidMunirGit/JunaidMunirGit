@@ -106,7 +106,8 @@ var junaid = new Developer {
     <td width="50%" valign="top">
       <p>
         ◆ <strong>Software Engineer @ DPL</strong> <em>Apr 2024 – Dec 2024</em><br/>
-        Delivered mission-critical logistics modules for defense-grade systems. Led end-to-end owning of requirements, feedback loops, and release milestones. 🏆 <em>Recognition Commitment Champion Award</em>
+        Delivered mission-critical logistics modules for defense-grade systems. Led end-to-end owning of requirements, feedback loops, and release milestones.<br/>
+        🏆 <strong>Recognition Commitment Champion Award — DPL Islamabad</strong>
       </p>
     </td>
   </tr>
@@ -126,7 +127,7 @@ var junaid = new Developer {
   </tr>
 </table>
 
-📌 **Open for remote & freelance opportunities** — [Get in touch →](mailto:linked.junaid@gmail.com)
+💻 **Open for freelance & contract work** — [Hire me on Upwork →](https://www.upwork.com/freelancers/~01fbbeb8e989f847d5)
 
 ---
 
