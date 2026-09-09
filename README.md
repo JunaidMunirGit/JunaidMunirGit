@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://github.com/JunaidMunirGit/JunaidMunirGit/blob/main/headshot.png" width="120" style="border-radius:50%; border: 3px solid #FFD700;" />
+<img src="https://github.com/JunaidMunirGit/JunaidMunirGit/blob/main/headshot.png" width="120" style="border-radius:50%;" />
 
-# Hi, I'm Junaid Munir 👋
+<h2>Junaid Munir</h2>
 
-### Senior Software Engineer · .NET | Angular | Azure | AI
+**Senior .NET Engineer · Azure & Cloud · AI-Powered Systems · 🏆 Recognition Commitment Champion**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-munir)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://junaidmunir.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linked.junaid@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunaidMunirGit)
+<p>
+I build <strong>enterprise-grade .NET systems</strong> for defense, SaaS, and AI platforms —<br/>
+clean architecture, scalable APIs, and real business impact.<br/>
+<em>Open for remote & freelance work.</em>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JunaidMunirGit&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/JunaidMunirGit?style=for-the-badge&label=FOLLOWERS&color=000000&labelColor=000000&logoColor=F97316)
+![Profile Views](https://komarev.com/ghpvc/?username=JunaidMunirGit&style=for-the-badge&label=PROFILE+VIEWS&color=F97316)
+![Experience](https://img.shields.io/badge/EXPERIENCE-6%2B_YEARS-000000?style=for-the-badge&logoColor=F97316)
+[![Upwork](https://img.shields.io/badge/UPWORK-F97316?style=for-the-badge&logo=upwork&logoColor=000000)](https://www.upwork.com/freelancers/~01fbbeb8e989f847d5)
+![Available](https://img.shields.io/badge/AVAILABLE_FOR_HIRE-F97316?style=for-the-badge)
 
 </div>
 
