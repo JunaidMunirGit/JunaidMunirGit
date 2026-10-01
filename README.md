@@ -2,7 +2,7 @@
 
 <h2>Junaid Munir</h2>
 
-**Senior .NET Engineer · Azure & Cloud · AI-Powered Systems · 🏆 Recognition Commitment Champion**
+**Senior .NET Engineer · Azure · AI-Powered Systems · 🏆 Recognition Commitment Champion**
 
 <p>
 I build <strong>enterprise-grade .NET systems</strong> for defense, SaaS, and AI platforms —<br/>
